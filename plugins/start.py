@@ -21,11 +21,11 @@ async def start_command(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/UHD_Bots"),
+                    InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/UHDBots"),
                     InlineKeyboardButton("💡 ᴄᴏᴅᴇs", url="https://github.com/UHD-Botz/UHD-FiletoLinks-Bot")
                 ],
                 [
-                    InlineKeyboardButton("📜 ᴜʜᴅ ᴏғғɪᴄɪᴀʟ", url="https://t.me/UHD_Official"),
+                    InlineKeyboardButton("📜 ᴜʜᴅ ɴᴇᴛᴡᴏʀᴋ", url="https://t.me/UHD_NETWORK"),
                     InlineKeyboardButton("🌐 ʜᴅ ᴍᴏᴠɪᴇs ᴇᴀʀᴛʜ", url="https://bit.ly/HDMoviesEarth")
                 ]
             ]
