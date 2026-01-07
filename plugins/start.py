@@ -26,7 +26,7 @@ async def start_command(client, message):
                 ],
                 [
                     InlineKeyboardButton("📜 ᴜʜᴅ ɴᴇᴛᴡᴏʀᴋ", url="https://t.me/UHD_NETWORK"),
-                    InlineKeyboardButton("🌐 ʜᴅ ᴍᴏᴠɪᴇs ᴇᴀʀᴛʜ", url="https://bit.ly/HDMoviesEarth")
+                    InlineKeyboardButton("🌐 ᴀᴇ ᴇɴᴄᴏᴅᴇs", url="https://bit.ly/AEEncodes")
                 ]
             ]
         ),
