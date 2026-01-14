@@ -1,6 +1,6 @@
-# 🗿  Visit & Support us - @UHD_Official
-# ⚡️ Do Not Remove Credit - Made by @UHD_Bots
-# 💬 For Any Help Join Support Group: @UHDBots_Support
+# 🗿  Visit & Support us - @newmoviesabbir
+# ⚡️ Do Not Remove Credit - Made by @newmoviesabbir
+# 💬 For Any Help Join Support Group: @newmoviesabbir
 # 🚫 Removing or Modifying these Lines will Cause the bot to Stop Working.
 
 
